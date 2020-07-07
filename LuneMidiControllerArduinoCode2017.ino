@@ -1,7 +1,7 @@
 //----------------------------------- MIDI CONTROLLER WITH CLASSES -------------
 //  Hello, to do your MIDI controller if you dont need more than 60 digitals(buttons,encoders and SR04) and 20 analogs(potentiometers) just look at the classes which are:
 //  BUTTONplay ( int digiPin, int channel) ------------> button is ON when push and OFF when repush
-//  BUTTONtemp ( int digiPin, int channel) ------------> button is ON when push and OFF after 15ms(for drums,...), keep pushing or just push does the same thing
+//  BUTTONtemp ( int digiPin, int channel) ------------> button is ON when push and OFF after 15ms(for drums,...) so keep pushing or just push does the same thing
 //  BUTTONcue ( int digiPin, int channel)  ------------> button is ON when push and OFF when you stop pushing
 //  POTENTIO (int analogPin, int channel )     --------> Potentiometer
 //  SR ( int digiPinEcho, int digiPinTrig, int channel ) ------------> IF distance detector, you need to declare pinMode, digitalWrite,  in void setup(){...} as the example for each detector
