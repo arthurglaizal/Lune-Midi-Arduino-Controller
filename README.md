@@ -7,6 +7,12 @@ The full build guide, images, explanations, and hardware details are available o
 
 [View the full project on Instructables](https://www.instructables.com/id/MIDI-Controller-With-Arduino-for-DJ-or-Musician/)
 
+## Demo video
+
+Watch the Lune MIDI Controller in action:
+
+[![Lune MIDI Controller demo](https://img.youtube.com/vi/z67HJUsKVNc/maxresdefault.jpg)](https://www.youtube.com/watch?v=z67HJUsKVNc)
+
 ## Overview
 
 Lune was my first Arduino project. The goal was to build a custom MIDI controller to control parameters in music software using different types of physical inputs.
